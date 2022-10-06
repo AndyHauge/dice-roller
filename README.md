@@ -2,6 +2,8 @@
 
 Simple Vue-based app to roll five dice and sum them.
 
+Live at https://curubethion.com/Javascript/Dice-Roller/
+
 ## Project setup
 ```
 npm install
