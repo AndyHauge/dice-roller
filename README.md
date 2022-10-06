@@ -1,4 +1,6 @@
-# yahtzee-roller
+# dice-roller
+
+Simple Vue-based app to roll five dice and sum them.
 
 ## Project setup
 ```
